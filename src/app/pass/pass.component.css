@@ -1,0 +1,29 @@
+.input>input{
+        width: 100%;
+        background-color: #E5E5E5;
+        height: 30px;
+        border: none;
+        padding-left: 10px;
+        box-sizing: border-box;
+        margin-bottom: 15px;
+    }
+.button{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+    .btn{
+        width: 30%;
+        height: 40px;
+        padding: 5px;
+        background-color: #6A94A6;
+        border: none;
+        border-radius: 45px;
+        color:#E9E9E9;
+        cursor: pointer;
+        outline: none;
+    }

@@ -1,0 +1,9 @@
+.center{
+    width: 80%;
+    margin: auto;
+     z-index: 1;
+}
+.float{
+    float: left;
+    width: 25%;
+}
